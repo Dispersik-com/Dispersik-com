@@ -1,7 +1,8 @@
--Name: Volodymyr Mykhailov
-Profession: Python Developer
-Email: harvel.bk@gmail.com
-Location: Ukraine, Mykolaiv
+Hi, my name is Volodymyr Mykhailov;
+
+- Profession: Python Developer;
+- Email: harvel.bk@gmail.com;
+- Location: Ukraine, Mykolaiv.
 
 Brief Description:
 Python Developer with experience in software development for telecommunications equipment. Experienced in backend development. Interested in machine learning and proficient in PyTorch and scikit-learn frameworks.
